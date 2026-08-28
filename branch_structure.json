@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/928-bound-evict-local-caches",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/928-bound-evict-local-caches": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/928-bound-evict-local-caches",
+    "origin"
+  ]
+}
